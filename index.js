@@ -16,6 +16,7 @@ git reset --hard 版本号     //回退到某个版本
 git reflog  //查看回退之前所有版本号
 git checkout -b 分支名  //添加并切换到分支
 git branch  //查看分支
+git branch -d 分支名    //删除分支
 
 
 
