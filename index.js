@@ -17,6 +17,7 @@ git reflog  //查看回退之前所有版本号
 git checkout -b 分支名  //添加并切换到分支
 git branch  //查看分支
 git branch -d 分支名    //删除分支
-
+git remote -v   //查看别名远程地址
+git remote remove 别名  //删除别名
 
 
