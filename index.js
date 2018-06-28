@@ -9,4 +9,6 @@ git config --global user.name shandaiwang   //添加Git显示名称
 git config --global user.email 1364860639@qq.com    //添加Git显示地址
 git remote add git https://github.com/tuxiaodiao/git.git    //设置远程推送别名
 git push git master     //设置远程推送别名后推送
+git pull git master     //拉取远程最新代码
+
 
